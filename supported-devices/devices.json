@@ -1160,7 +1160,8 @@
       },
       {
         "device": ["ASUS Chromebook Plus CX34"],
-        "boardname": "MARASOV"
+        "boardname": "MARASOV",
+        "linux": "Internal speaker doesn't work."
       },
       {
         "device": [
